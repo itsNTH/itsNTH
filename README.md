@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in Paris<br>✉️ You can contact me at notdatboi28@gmail.com<br>🧠 I'm learning CrossPlatform application development
+🌍 I'm based in Paris<br>✉️ You can contact me at notdatboi28@gmail.com<br>🧠 I'am a new developer trying to learn new languages.
 
 
 ## 🌐 Socials:
